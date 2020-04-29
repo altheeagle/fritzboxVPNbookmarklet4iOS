@@ -7,7 +7,7 @@ Im Browser einen neuen Link in der Bookmarkleiste/Favoritenleiste anlegen, den N
 
 ## Nutzung
 
-Befolge die [https://avm.de/service/vpn/tipps-tricks/vpn-verbindung-zur-fritzbox-unter-apple-ios-zb-iphone-einrichten/](Anleitung von AVM) bis zu Schritt 3, hierbei unterstützt dich das Bookmarklet.
+Befolge die [Anleitung von AVM](https://avm.de/service/vpn/tipps-tricks/vpn-verbindung-zur-fritzbox-unter-apple-ios-zb-iphone-einrichten/) bis zu Schritt 3, hierbei unterstützt dich das Bookmarklet.
 1. Logge dich auf der Fritzbox ein. Navigiere zu System/Fritzbox-Benutzer oder klicke auf das Bookmarklet, das bringt dich zur richtigen Seite.
 2. Suche den Fritzbox Benutzer für den du die Konfigurationsdatei erstellen willst und klicke auf den __Stift__ um den User zu bearbeiten.
 3. Klicke nun auf das Bookmarklet. Dieses holt sich die Informationen und öffnet einen Downloaddialog. Speichere die Datei ab. Der Dateiname ist egal, die Endung __.mobileconfig__ muss erhalten bleiben.
