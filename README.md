@@ -1,5 +1,5 @@
 # fritzboxVPNbookmarklet4iOS
-Ein Bookmarklet um eine .mobileconfig für die VPN-Verbindung zur Fritzbox zu erzeugen. Damit ersparst du dir das Eintragen der Bnutzerdaten auf dem iOS Gerät (Funktioniert auch mit iPadOS)
+Ein Bookmarklet um eine .mobileconfig für die VPN-Verbindung zur Fritzbox zu erzeugen. Damit ersparst du dir das Eintragen der Benutzerdaten auf dem iOS Gerät (Funktioniert auch mit iPadOS)
 
 ## Installation
 
